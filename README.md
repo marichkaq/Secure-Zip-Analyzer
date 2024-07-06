@@ -41,5 +41,5 @@ Update the code with your VirusTotal API key by replacing 'your_api_key' with yo
 
 Execution:
 
-Run the program: python zip_decryptor.py.
-Provide the zip file path and password collection file when prompted.
+* Run the program: python zip_decryptor.py.
+* Provide the zip file path and password collection file when prompted.
