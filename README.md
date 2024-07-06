@@ -3,7 +3,8 @@ Overview:
 
 This tool processes password-protected zip files by decrypting them, analyzing the contents, and generating a detailed report. It uses a password collection to unlock the zip file, lists all contained files, and performs a series of analyses.
 
-Features:
+Features
+
 File Handling:
 
 Accepts only .zip files.
@@ -30,6 +31,7 @@ Logging:
 Logs each execution step into a log.txt file.
 
 Usage:
+
 Setup:
 
 Ensure you have the necessary Python libraries installed:
